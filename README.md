@@ -63,7 +63,7 @@ Replace `YOUR-USERNAME` with your GitHub username and use the repository URL Git
 The events are sample/demo content. Registration records are stored only in the visitor's browser using `localStorage`; this project does not include a backend, database, payment gateway or email service. The confirmation shown on submission is a front-end demo confirmation, not an email or externally verified booking.
 
 Event photos are loaded from Unsplash and Google Fonts are loaded from Google Fonts, so those visual assets require an internet connection.
-
+Website deployment verification — Gatherly 2026.
 ## Technologies
 
 - HTML5 — semantic page structure and forms
